@@ -243,3 +243,17 @@ font-size: 18px;
 	font-size: 40px;
 	margin-top: 2.5px;
 }
+
+@media (max-width: 768px){
+ 	.header {
+	background-color: rgba(173,173,173,.8);
+}
+}
+
+@media (max-width: 768px){
+
+.services ul li:before {
+  margin-left: -30px;
+}
+
+}
